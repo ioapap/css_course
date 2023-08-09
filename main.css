@@ -86,6 +86,10 @@ body {
     color: #0e4f1f;
 }
 
+.button:focus {
+    outline: none;
+}
+
 .section-title {
     color: #2ddf5c;
     text-align: center;
